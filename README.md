@@ -31,7 +31,7 @@ _Note: the following python3 package needs to be installed prior to running the 
 
 * **--file**
 
-   The name of the file to be processed Default value: **civic-nightly.txt**
+   The name of the file to be processed Default value: **nightly-civic.txt**
 
 
 * **--template**
@@ -78,7 +78,7 @@ _Note: the following python3 package needs to be installed prior to running the 
 ### Example:
 
 ```
-python3 process_civic.py temp 1234 --server public.ndexbio.org --file civic-nightly.txt --template 4ce6075a-cd88-11e8-aaa6-0ac135e8bacf --type all
+python3 process_civic.py temp 1234 --server public.ndexbio.org --file nightly-civic.txt --template 4ce6075a-cd88-11e8-aaa6-0ac135e8bacf --type all
 
 ```
 

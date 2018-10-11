@@ -64,7 +64,7 @@ class CivicUploader():
         if file is not None:
             self.params['tsv_file'] = file
         else:
-            self.params['tsv_file'] = 'nightly-civic-small.txt'
+            self.params['tsv_file'] = 'nightly-civic.txt'
 
         self.update_mapping = self.get_update_mapping()
 
