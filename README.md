@@ -82,5 +82,11 @@ python3 process_civic.py temp 1234 --server public.ndexbio.org --file nightly-ci
 
 ```
 
+OR to run with all defaults
+
+```
+python3 process_civic.py temp 1234
+
+```
 
 
